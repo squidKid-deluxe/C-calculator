@@ -1,10 +1,4 @@
-# Calc2.C
-   ____      _      ____         ____  
-  / ___|__ _| | ___|___ \       / ___| 
- | |   / _' | |/ __| __) |     | |     
- | |__| (_| | | (__ / __/   _  | |___  
-  \____\__,_|_|\___|_____| (_)  \____| 
-                                       
+#Calc2.C
 
 This is a very simple C++ script, only 57 lines without comments. It can do multiplication, division, addition, and subtraction.
 
